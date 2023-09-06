@@ -1,6 +1,6 @@
 [
     {
-        "name":"ECS",
+        "name":"ecs_codedeploy",
         "imageUri":"449136714046.dkr.ecr.ap-south-1.amazonaws.com/ecs_codedeploy:latest"
     }
 ]
